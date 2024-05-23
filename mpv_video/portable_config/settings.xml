@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
+    <ShowMenuFixApplied>true</ShowMenuFixApplied>
+    <Volume>79</Volume>
+    <RecentFiles>
+        <string>http://localhost:8096/emby/videos/6398/stream.mp4?api_key=3521600ed14e4879adfffa77fb96c12e&amp;Static=true&amp;MediaSourceId=770874ab005c6d8342fc058f5475d2f2|stream.mp4?api_key=3521600ed14e4879adfffa77fb96c12e&amp;Static=true&amp;MediaSourceId=770874ab005c6d8342fc058f5475d2f2</string>
+        <string>D:\转储存\视频\2022-12-18 17-41-42.mkv</string>
+        <string>http://nas.tigerest.top:8095/emby/videos/33932/stream.mkv?api_key=075f0cc2672e40448035cb55ceaddad8&amp;Static=true&amp;MediaSourceId=959c4897b7123c730dbae0d3efe78ba3|stream.mkv?api_key=075f0cc2672e40448035cb55ceaddad8&amp;Static=true&amp;MediaSourceId=959c4897b7123c730dbae0d3efe78ba3</string>
+        <string>http://nas.tigerest.top:8095/emby/videos/33931/stream.mkv?api_key=075f0cc2672e40448035cb55ceaddad8&amp;Static=true&amp;MediaSourceId=d40d4c3829abd6157bb4fecf25ad6b7b|stream.mkv?api_key=075f0cc2672e40448035cb55ceaddad8&amp;Static=true&amp;MediaSourceId=d40d4c3829abd6157bb4fecf25ad6b7b</string>
+        <string>http://nas.tigerest.top:8095/emby/videos/33930/stream.mkv?api_key=075f0cc2672e40448035cb55ceaddad8&amp;Static=true&amp;MediaSourceId=df837c825488316bc92edcc71c76eb21|stream.mkv?api_key=075f0cc2672e40448035cb55ceaddad8&amp;Static=true&amp;MediaSourceId=df837c825488316bc92edcc71c76eb21</string>
+        <string>G:\Media library\Anime\Anime Movie\佐佐木与宫野ー毕业篇ー\[GJ.Y] Sasaki to Miyano Movie -  Sotsugyou-hen - Movie (CR 1920x1080 AVC AAC MKV) [76136317].mkv</string>
+        <string>D:\转储存\视频\2022-12-21 18-06-33_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-20 16-52-46_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-09 15-57-14_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-18 22-33-37_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-18 22-29-38_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-21 20-39-20_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-21 20-26-16_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-21 18-06-33_Trim_Trim.mp4</string>
+        <string>D:\转储存\视频\2022-12-09 15-45-30_Trim.mp4</string>
+    </RecentFiles>
+    <WindowLocation>
+        <X>0</X>
+        <Y>0</Y>
+    </WindowLocation>
+    <WindowPosition>
+        <X>1280</X>
+        <Y>699</Y>
+    </WindowPosition>
+    <WindowSize>
+        <Width>1690</Width>
+        <Height>951</Height>
+    </WindowSize>
+    <ConfigEditorSearch>音频:</ConfigEditorSearch>
+    <Mute>no</Mute>
+</AppSettings>
