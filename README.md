@@ -19,8 +19,6 @@ download之后里面md格式使用教程，不会用的直接记事本打开即�
 
 With the most efficient shader and filter algorithms available. For specific usage, see the tutorial after decompression.
 
-After downloading, the MD format inside the tutorial,I won't use it directly to open the notepad.,Just follow the operation in my video.
-
 You can try to modify the test by yourself, and follow me to recover the video if it is broken.
 
 Video:https://www.bilibili.com/video/BV1am421M7rH/
