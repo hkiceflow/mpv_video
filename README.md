@@ -1,4 +1,3 @@
-<img width="1490" height="2030" alt="3D7F5DD7D4C02610AE9D031C217D7F2A" src="https://github.com/user-attachments/assets/8edf5bdf-f0b7-479d-80e1-6259580071ee" />
 # 介绍
 
 **下方有一份通知，是关于版本以及纠纷问题的，记得查看**
