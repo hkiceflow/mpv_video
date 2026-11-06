@@ -1,12 +1,12 @@
 # 通知
 
-保持更新，但只给code
+保持更新，但版本不是最新，原因在下方图片中。
 
 需要的充电后进群自取，QQ群号：109650965
 
 Due to encountering some disgusting people, I changed to just provide code and no longer provide installation packages.
 
-I'll keep the updata of the code.
+I'll keep it updated, but the version isn't the latest.
 
 I am a Chinese, if you need to install the package, please download the QQ software, add my number:2861802420.**（free for foreigners, but not for Chinese）**Tell me you're saw it on github
 
