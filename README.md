@@ -8,11 +8,11 @@
 
 ## 方向
 
-目的是制作一份以画面质量为最高优先级的整合包
-性能开销也有考量，但被我排到第二优先级
-音质为第三优先级
-  因为人类观看视频时的感知约70%来源于眼睛
-综合考量下：部分肉眼观感提升不是很明显，但性能开销巨大的，我暂时未加入，等待下一代显卡出来后再进行测试
+1. 目的是制作一份以画面质量为最高优先级的整合包
+2. 性能开销也有考量，但被我排到第二优先级
+3. 音质为第三优先级
+  3.1 因为人类观看视频时的感知约70%来源于眼睛
+4. 综合考量下：部分肉眼观感提升不是很明显，但性能开销巨大的，我暂时未加入，等待下一代显卡出来后再进行测试
 
 大量使用gpu进行计算，因为cpu运行原理导致并不适合处理除解码外的画面实时计算。
 
@@ -43,11 +43,11 @@ github上制作的为懒人包，去除了大量未预设及不需要的算法�
 
 ## Direction
 
-The goal is to create a package that prioritizes the highest visual quality.
-Performance impact is also considered but is my second priority.
-Audio quality is the third priority.
-Since about 70% of human perception when watching video comes from the eyes,
-considering everything: features that barely improve visual experience yet have huge performance costs are currently not included; I’ll test them when the next generation of graphics cards comes out.
+1. The goal is to create a package that prioritizes the highest visual quality.
+2. Performance impact is also considered but is my second priority.
+3. Audio quality is the third priority.
+  3.1 Since about 70% of human perception when watching video comes from the eyes,
+4. considering everything: features that barely improve visual experience yet have huge performance costs are currently not included; I’ll test them when the next generation of graphics cards comes out.
 
 A lot of GPU computation is used because the CPU’s operation principle makes it unsuitable for real-time video processing beyond decoding.
 
