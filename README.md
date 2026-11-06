@@ -1,3 +1,4 @@
+<img width="1490" height="2030" alt="3D7F5DD7D4C02610AE9D031C217D7F2A" src="https://github.com/user-attachments/assets/8edf5bdf-f0b7-479d-80e1-6259580071ee" />
 # 介绍
 
 **下方有一份通知，是关于版本以及纠纷问题的，记得查看**
@@ -33,7 +34,9 @@ github上制作的为懒人包，去除了大量未预设及不需要的算法�
 
 中文区我展示我的支付宝及微信，如果你是海外华人不使用微信或支付宝，可到英文部分查看赞助。
 
+<img width="1490" height="2030" alt="3D7F5DD7D4C02610AE9D031C217D7F2A" src="https://github.com/user-attachments/assets/6f1c7844-4725-4afd-aaa6-6218d8125b1e" />
 
+<img width="1260" height="1890" alt="115F3E5F004B604CB7A297C65AD247A2" src="https://github.com/user-attachments/assets/f2e6d6ef-bd12-417a-ba12-4683fdfa04c8" />
 
 
 
