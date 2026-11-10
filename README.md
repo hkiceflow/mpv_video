@@ -7,7 +7,8 @@
 **The English document is below**
 
 *这是最新版的，并非github上传版本*
-![](./src/D75C41384DF181CEB26770032998285F.png)
+<img width="841" height="723" alt="d75c41384df181ceb26770032998285f" src="https://github.com/user-attachments/assets/12fc7124-676c-4da0-a0bc-5f29cea5e0ae" />
+
 
 ## 方向
 
