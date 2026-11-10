@@ -6,6 +6,9 @@
 
 **The English document is below**
 
+*这是最新版的，并非github上传版本*
+![](./src/D75C41384DF181CEB26770032998285F.png)
+
 ## 方向
 
 1. 目的是制作一份以画面质量为最高优先级的整合包
