@@ -2,18 +2,6 @@
 
 [简体中文](README.md) | [English](readme_EN.md)
 
----
-
-### English
-
-// Your English content here
-
----
-
-### 中文
-
-// Your Chinese content here
-
 # 介绍
 
 **下方有一份通知，是关于版本以及纠纷问题的，记得查看**
