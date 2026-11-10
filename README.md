@@ -45,7 +45,7 @@ github上制作的为懒人包，去除了大量未预设及不需要的算法�
 
 <img width="1260" height="1890" alt="115F3E5F004B604CB7A297C65AD247A2" src="https://github.com/user-attachments/assets/f2e6d6ef-bd12-417a-ba12-4683fdfa04c8" />
 
-# 通知（Notice）
+# 通知
 
 保持更新，但版本不是最新，原因在下方图片中。
 
