@@ -1,10 +1,24 @@
+## Language
+
+[简体中文](README.md) | [English](readme_EN.md)
+
+---
+
+### English
+
+// Your English content here
+
+---
+
+### 中文
+
+// Your Chinese content here
+
 # 介绍
 
 **下方有一份通知，是关于版本以及纠纷问题的，记得查看**
 
 **部分地方我会写的有股机翻味，因为我还要翻译成英文，利于外国人查看，大家看得懂是什么意思就行了。**
-
-**The English document is below**
 
 *这是最新版的，并非github上传版本*
 <img width="841" height="723" alt="d75c41384df181ceb26770032998285f" src="https://github.com/user-attachments/assets/12fc7124-676c-4da0-a0bc-5f29cea5e0ae" />
@@ -43,51 +57,11 @@ github上制作的为懒人包，去除了大量未预设及不需要的算法�
 
 <img width="1260" height="1890" alt="115F3E5F004B604CB7A297C65AD247A2" src="https://github.com/user-attachments/assets/f2e6d6ef-bd12-417a-ba12-4683fdfa04c8" />
 
-# English document
-
-## Direction
-
-1. The goal is to create a package that prioritizes the highest visual quality.
-2. Performance impact is also considered but is my second priority.
-3. Audio quality is the third priority.
-  3.1 Since about 70% of human perception when watching video comes from the eyes,
-4. considering everything: features that barely improve visual experience yet have huge performance costs are currently not included; I’ll test them when the next generation of graphics cards comes out.
-
-A lot of GPU computation is used because the CPU’s operation principle makes it unsuitable for real-time video processing beyond decoding.
-
-## About This Package
-
-The version on GitHub is a lazy package, removing many unpreset and unnecessary algorithms. If needed, you can ask me for the complete package.
-
-1. After downloading and installing the package, locate the mpvnet.exe file to start using it.
-2. Tutorials for advanced operations are included in the package:
-   1. mpv itself
-   2. Shaders
-   3. Filters
-3. If you don’t understand the written tutorials, you can search my channel on Bilibili to watch the tutorial series in video format. My ID: iceflow_official
-   1. The series on the channel also includes explanations of various image principles.
-
-## Additionally
-
-This is a public welfare project. If you are able, I hope you could offer some support (this is not mandatory), which will motivate me and help me keep updating. Part of any sponsorship will be used for public welfare projects: this is shown in the pinned post comments on my channel.
-I would greatly appreciate any support, and I will continue updating this project.
-If you have Alipay, my Alipay is listed in the Chinese documents section. Thanks for your support.
-
-my paypal mial：hkiceflow@gmail.com
-  ID:@hkiceflow
-
-
 # 通知（Notice）
 
 保持更新，但版本不是最新，原因在下方图片中。
 
 需要最新版的充电后进群自取，b站：iceflow_official；QQ群号：109650965，
-
-Due to encountering some disgusting people,i won't be keeping the latest version updated on GitHub..
-
-I'll keep it updated, but the version isn't the latest.
-
-I am a Chinese, if you need to install the latest version package, please download the QQ software, add my number:2861802420.**（free for foreigners, but not for Chinese）**Tell me you're saw it on github
 
 ![QQ图片20240712181213](https://github.com/user-attachments/assets/a117f5f5-6880-462f-a924-b4333b72450a)
 
